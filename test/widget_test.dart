@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-
+//allows unit testing of the app , instead of the whole file
 import 'package:speed_wise_app/main.dart';
 
 void main() {
